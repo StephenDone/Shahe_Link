@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Shahe_Link": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
